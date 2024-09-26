@@ -1,0 +1,36 @@
+.Background {
+    background-color: white;
+    height: 100vh;
+}
+
+.button {
+    height: 85px;
+    width: 100px;
+    border-radius: 15px;
+}
+
+.color-1 {
+    background-color: #e0e0e0;
+}
+
+.color-2 {
+    background-color: #6fcf97;
+}
+
+.color-3 {
+    background-color: #56ccf2;
+}
+
+.color-4 {
+    background-color: #bb6bd9;
+}
+
+.back {
+    font-size: 25px;
+    background-color: black;
+    color: white;
+}
+
+.color-change {
+    color: #49a6e9;
+}
